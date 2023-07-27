@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body: Roboto;
+  --heading-3: Montserrat;
+  --font-rounded-mplus-1c-bold: "Rounded Mplus 1c Bold";
+
+  /* font sizes */
+  --body-small-size: 14px;
+  --heading-3-size: 16px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-deepskyblue: #3da9e2;
+  --color-lightblue: #c5e3f2;
+  --color-gainsboro: #d9d9d9;
+
+  /* border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+}
